@@ -3761,9 +3761,9 @@ fast-levenshtein@^2.0.6:
   integrity sha512-DCXu6Ifhqcks7TZKY3Hxp3y6qphY5SJZmrWMDrKcERSOXWQdMhU9Ig/PYrzyw/ul9jOIyh0N4M0tbC5hodg8dw==
 
 fast-xml-parser@^4.0.12, fast-xml-parser@^4.2.4:
-  version "4.3.5"
-  resolved "https://registry.yarnpkg.com/fast-xml-parser/-/fast-xml-parser-4.3.5.tgz#e2f2a2ae8377e9c3dc321b151e58f420ca7e5ccc"
-  integrity sha512-sWvP1Pl8H03B8oFJpFR3HE31HUfwtX7Rlf9BNsvdpujD4n7WMhfmu8h9wOV2u+c1k0ZilTADhPqypzx2J690ZQ==
+  version "4.4.1"
+  resolved "https://registry.yarnpkg.com/fast-xml-parser/-/fast-xml-parser-4.4.1.tgz#86dbf3f18edf8739326447bcaac31b4ae7f6514f"
+  integrity sha512-xkjOecfnKGkSsOwtZ5Pz7Us/T6mrbPQrq0nh+aCO5V9nk5NLWmasAHumTKjiPJPWANe+kAZ84Jc8ooJkzZ88Sw==
   dependencies:
     strnum "^1.0.5"
 
@@ -5958,10 +5958,10 @@ react-native-reanimated@^3.8.0:
     convert-source-map "^2.0.0"
     invariant "^2.2.4"
 
-react-native-zoom-reanimated@^1.4.4-alpha.0:
-  version "1.4.4-alpha.0"
-  resolved "https://registry.yarnpkg.com/react-native-zoom-reanimated/-/react-native-zoom-reanimated-1.4.4-alpha.0.tgz#704fc9fb6682946e13c9dc51b019bdae5ec6f007"
-  integrity sha512-tB5/UIPn+jsXQgmZcbRUV0ulcsDLjtHrKXySOGI1urzSVOaxQ2XemXF1yWZfzMlIkXo8qlvZf6ZwXCT41Oaz1g==
+react-native-zoom-reanimated@^1.4.4:
+  version "1.4.5"
+  resolved "https://registry.yarnpkg.com/react-native-zoom-reanimated/-/react-native-zoom-reanimated-1.4.5.tgz#b212661cb7335ca63fbf60d787b5e8946db31383"
+  integrity sha512-+R/pEItosr5nXIsDJeqFSsv8JNdfLjw0ttRebdZ9oc2/0+sy/XIYt138GFrXtYQJpz7wPOhh0rNA6wmGcUVvOQ==
 
 react-native@0.73.6:
   version "0.73.6"
